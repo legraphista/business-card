@@ -23,7 +23,7 @@ const Hero = () => (
           >
             Findie
           </a>{' '}
-          from it's inception in 2014 aiming to provide a Netflix for shorts
+          from it's inception in 2014, aiming to provide a Netflix for shorts
           platform. Pivoted to{' '}
           <a
             className="text-cyan-400 hover:underline"
@@ -31,7 +31,7 @@ const Hero = () => (
           >
             Kamua
           </a>{' '}
-          around 2019, an AI centric video editing platform. Got acquitted by{' '}
+          around 2019, an AI centric video editing platform. Got acquired by{' '}
           <a
             className="text-cyan-400 hover:underline"
             href="https://jellysmack.com/"
@@ -49,8 +49,7 @@ const Hero = () => (
           <br />
           By day, I'm a technologist. Always looking to create meaningful tech.
           <br />
-          By night, I'm a gamer and a tinkerer. Always eager to learn new
-          things.
+          By night, I'm a gamer and a tinkerer. Always eager to learn something new.
         </>
       }
       avatar={
